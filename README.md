@@ -1,18 +1,10 @@
 <!-- Profil README pour SamalehZen -->
 
-<div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #222;">
-  <h1 style="font-weight: 700; margin-bottom: 0;">Salut, moi c’est Samaleh 👋</h1>
-  <p style="font-size: 1.1rem; margin-top: 6px;">
-    Développeur Web Full-Stack | Spécialiste Python & IA | Passionné par Next.js & UI/UX
-  </p>
-</div>
-  
----
+👋 Salut, moi c’est Samaleh (alias Sam Zen)
 
-# 👋 Salut, moi c’est Sam Zen
-
-💻 **Développeur Full-Stack Web** (Frontend & Backend)  
-🐍 **Python** • Automatisation • 🤖 **Intégration IA**
+💻 Développeur Web Full-Stack (Frontend & Backend)  
+🐍 Spécialiste Python, automatisation & intégration IA  
+🚀 Passionné par Next.js & UI/UX  
 
 ## 🚀 À propos de moi
 Je conçois et développe des applications web **complètes de bout en bout**, du frontend au backend.  
