@@ -12,9 +12,32 @@
 
 ---
 
-### 🚀 À propos de moi
+# 👋 Salut, moi c’est Sam Zen
 
-Hey ! Je suis Samaleh, développeur web passionné, spécialisé dans la création d'expériences web rapides, élégantes et accessibles. J’adore travailler avec les frameworks modernes pour concevoir des interfaces qui séduisent les utilisateurs et répondent aux besoins réels.
+💻 **Développeur Full-Stack Web** (Frontend & Backend)  
+🐍 **Python** • Automatisation • 🤖 **Intégration IA**
+
+## 🚀 À propos de moi
+Je conçois et développe des applications web **complètes de bout en bout**, du frontend au backend.  
+Spécialisé en **Python**, j’automatise des processus et j’intègre des **solutions d’intelligence artificielle** dans des projets concrets et scalables.
+
+## 🛠️ Stack technique
+- **Frontend :** HTML, CSS, JavaScript, React  
+- **Backend :** Python, Django, FastAPI, APIs REST  
+- **Automatisation :** Scripts Python, workflows, intégrations  
+- **IA :** Intégration de LLM, fonctionnalités IA  
+- **Outils :** Git, GitHub, Docker, CI/CD  
+
+## 🎯 Ce que je fais
+- Développement d’applications web Full-Stack  
+- Automatisation de tâches et de processus  
+- Intégration de l’IA dans des projets réels  
+- Déploiement et maintenance de solutions en production  
+
+## 📫 Contact & collaboration
+💼 Ouvert aux collaborations et nouveaux projets  
+🚀 Toujours en train de construire et d’apprendre
+
 
 - 🌍 Basé à Djibouti
 - 🎨 Attentif au détail et à l’expérience utilisateur
@@ -33,28 +56,7 @@ Hey ! Je suis Samaleh, développeur web passionné, spécialisé dans la créati
 
 ---
 
-### 🌟 Projet phare
 
-#### 📱 Djibouti Telecom Store
-
-Plateforme SaaS AI moderne pour Djibouti Telecom, réalisée avec Next.js, Tailwind CSS et TypeScript. Interface élégante, performances optimisées et expérience mobile impeccable.
-
-[🔗 Découvrir le projet](https://djibouti-telecom.store)
-
----
-
-### 📫 Me contacter
-
-- 🌐 [djibouti-telecom.store](https://djibouti-telecom.store)
-
----
-
-<details>
-  <summary>🤓 Fun fact</summary>
-  <p>
-    Quand je ne code pas, j’aime explorer les dernières tendances tech, dessiner des interfaces ou savourer un bon café ☕.
-  </p>
-</details>
 
 ---
 
