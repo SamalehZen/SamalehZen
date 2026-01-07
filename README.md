@@ -2,7 +2,7 @@
 
 <div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #222; max-width: 700px; margin: auto;">
   <h1 style="font-size: 3rem; font-weight: 700; margin-bottom: 0.5rem;">
-    👋 Salut, moi c’est Samaleh <br>(alias Sam Zen)
+    👋 Salut, moi c’est Samaleh
   </h1>
   <p style="font-size: 1.5rem; margin: 0.5rem 0;">
     💻 Développeur Web Full-Stack (Frontend & Backend)<br>
@@ -10,6 +10,7 @@
     🚀 Passionné par Next.js & UI/UX
   </p>
 </div>
+
 ## 🚀 À propos de moi
 Je conçois et développe des applications web **complètes de bout en bout**, du frontend au backend.  
 Spécialisé en **Python**, j’automatise des processus et j’intègre des **solutions d’intelligence artificielle** dans des projets concrets et scalables.
