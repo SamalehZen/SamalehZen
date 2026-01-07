@@ -102,4 +102,4 @@ Spécialisé en **Python**, j’automatise des processus et j’intègre des **s
 
 
 ---
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamZen&show_icons=true&count_private=true&theme=radical)
