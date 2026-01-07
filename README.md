@@ -1,15 +1,12 @@
 <!-- Profil README pour SamalehZen -->
 
-<h1 align="center">Salut, moi c'est Samaleh 👋</h1>
-<p align="center">
-  <b>Développeur Web | Passionné de Next.js | Artisan de l’UI</b>
-</p>
-<p align="center">
-  <a href="https://djibouti-telecom.store" target="_blank">
-    <img src="https://img.shields.io/badge/Visiter%20mon%20site-2D3748?logo=Google-Chrome&logoColor=white&style=for-the-badge" alt="Badge Site Web"/>
-  </a>
-</p>
-
+<div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #222;">
+  <h1 style="font-weight: 700; margin-bottom: 0;">Salut, moi c’est Samaleh 👋</h1>
+  <p style="font-size: 1.1rem; margin-top: 6px;">
+    Développeur Web Full-Stack | Spécialiste Python & IA | Passionné par Next.js & UI/UX
+  </p>
+</div>
+  
 ---
 
 # 👋 Salut, moi c’est Sam Zen
