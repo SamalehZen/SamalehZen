@@ -103,6 +103,3 @@ Spécialisé en **Python**, j’automatise des processus et j’intègre des **s
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamalehZen&show_icons=true&theme=radical" alt="Statistiques GitHub de SamalehZen"/>
-</p>
